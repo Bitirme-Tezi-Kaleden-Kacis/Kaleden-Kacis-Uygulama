@@ -1,0 +1,18 @@
+{
+  "name": "tez kedi",
+  "short_name": "tez kedi",
+  "id": "com.amirbaba.tez",
+  "description": "",
+  "orientation": "landscape",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": [{
+        "src": "Zplamak-1.png",
+        "sizes": "36x36"
+      },{
+        "src": "idle7.png",
+        "sizes": "512x512"
+      }]
+}
